@@ -39,8 +39,14 @@ After setting up your `.env` file, you can start the Twitch Username Color Chang
     npm install
     ```
 
-2. **Start the application:**  
-    Use the command:
+2. **Build the application:**  
+    Compile the TypeScript code to JavaScript by running:
+    ```bash
+    npm run build
+    ```
+
+3. **Start the application:**  
+    Run the following command to start the application:
     ```bash
     npm start
     ```
